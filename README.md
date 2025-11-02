@@ -37,12 +37,11 @@ El objetivo es **automatizar la evaluación crediticia** y asignar condiciones d
 ├── requirements.txt # Dependencias del proyecto
 └── train.csv # Dataset original para entrenamiento
 
-
-💡 Se recomienda usar un entorno virtual (`python -m venv .venv`) o `conda` para mantener las dependencias aisladas.
+ Se recomienda usar un entorno virtual (`python -m venv .venv`) o `conda` para mantener las dependencias aisladas.
 
 ---
 
-## 🚀 Flujo del Modelo
+## Flujo del Modelo
 
 ### Preparación y Limpieza de Datos
 - Carga del dataset `train.csv`.
@@ -155,14 +154,6 @@ Finalmente, se consiguió una automatización sólida que **evalúa nuevas solic
 
 ---
 
-## Autoras
-
-| Nombre | Rol | Contacto |
-|--------|------|----------|
-| **Jeanette Valenzuela Gutiérrez** | Desarrollo técnico, modelado y pricing | [GitHub @JeanetteVgtz](https://github.com/JeanetteVgtz) |
-| **Paulina Elizabeth Mejía Hori** | Análisis financiero y documentación | — |
-
----
 
 ## Licencia
 
