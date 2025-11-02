@@ -1,9 +1,9 @@
-# 💳 02_CreditModel_Project
+# 02_CreditModel_Project
 
 ### Asignatura:
 **Modelos de Crédito**
 
-### 👩‍💻 Presentado por:
+### Presentado por:
 - **Jeanette Valenzuela Gutiérrez**  
 - **Paulina Elizabeth Mejía Hori**
 
